@@ -25,7 +25,7 @@ kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 line-bot-sdk==1.16.0
 llvmlite==0.31.0
-lxml==4.5.0
+lxml==4.6.2
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 missingno==0.4.2
